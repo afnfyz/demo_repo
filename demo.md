@@ -17,6 +17,6 @@ Standards Institute **(ANSI)**.
 > echo "Hello World!"
 
 
-![Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge#/media/File:Manhattan_Bridge_May_2022_010.jpg)
+![Manhattan Bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Manhattan_Bridge_May_2022_010.jpg/2560px-Manhattan_Bridge_May_2022_010.jpg)
 
 
