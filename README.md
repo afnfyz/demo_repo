@@ -2,4 +2,4 @@
 - ## I am having so much.
 	- Thanks Myles :)
 	- EMOJI: :D
-- TESTING COMMIT AFTER RUNNING $git config
+- TESTING COMMIT from new instance	
