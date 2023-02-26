@@ -2,4 +2,4 @@
 - ## I am having so much.
 	- Thanks Myles :)
 	- EMOJI: :D
-- TESTING COMMIT AFTER EDITING GITCONFIG
+- TESTING COMMIT AFTER EDITING GITCONFIG.
