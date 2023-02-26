@@ -2,4 +2,4 @@
 - ## I am having so much.
 	- Thanks Myles :)
 	- EMOJI: :D
-- TESTING COMMIT after editing git config file.
+- TESTING COMMIT after editing git config file
